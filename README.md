@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZeynepHusnaKocacenk
-- 👀 I’m interested in Computer Scinece in Carleton University
+- 📚 I’m interested in Computer Scinece in Carleton University
 
 
 <!---
