@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ZeynepHusnaKocacenk
-- 📚 I’m studying in Computer Scinece in Carleton University
 
 
 <!---
